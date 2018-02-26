@@ -9,8 +9,12 @@ module.exports = {
     plugins: [
         'jsx-a11y',
         'react',
+        'prettier'
     ],
     rules: {
+        "prettier/prettier": ["error", {
+            "singleQuote": true
+        }],
         "import/no-named-as-default-member": 'off',
         'react/jsx-uses-vars': 'error',
         "no-console": 'off',
