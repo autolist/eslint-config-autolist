@@ -6,6 +6,10 @@ module.exports = {
         "airbnb-base",
         "prettier"
     ],
+    plugins: [
+        'jsx-a11y',
+        'react'
+    ],
     rules: {
         "import/no-named-as-default-member": 0,
         "no-console": 0,
