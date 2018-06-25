@@ -23,6 +23,6 @@
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.9.1",
     "prettier": "^1.13.5",
-    "prettier-eslint": "^8.8.1"
+    "prettier-eslint": "^8.8.2"
   }
 }
