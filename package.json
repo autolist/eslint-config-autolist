@@ -3,8 +3,8 @@
   "version": "0.6.0",
   "description": "ESLint config for Autolist Inc.",
   "main": "index.js",
-  "author": "asher@autolist.com",
-  "license": "null",
+  "author": "engineering@autolist.com",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": "^5.3.0",
     "eslint-plugin-import": "^2.13.0",
