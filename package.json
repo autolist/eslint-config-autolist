@@ -1,6 +1,6 @@
 {
   "name": "@autolist/eslint-config-autolist",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "ESLint config for Autolist Inc.",
   "main": "index.js",
   "author": "engineering@autolist.com",
