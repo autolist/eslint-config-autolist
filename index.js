@@ -7,6 +7,7 @@ module.exports = {
         "prettier"
     ],
     plugins: [
+        "json",
         'jsx-a11y',
         'react',
         'prettier'
