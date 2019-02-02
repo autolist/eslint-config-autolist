@@ -435,8 +435,8 @@ eslint-plugin-import@^2.14.0:
     resolve "^1.9.0"
 
 eslint-plugin-jest@^22.0.0:
-  version "22.1.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-22.1.3.tgz#4444108dfcddc5d2117ed6dc551f529d7e73a99e"
+  version "22.2.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-22.2.2.tgz#2a80d70a20c27dfb1503a6f32cdcb647fe5476df"
 
 eslint-plugin-json@^1.2.1:
   version "1.3.2"
