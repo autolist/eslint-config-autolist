@@ -4,7 +4,8 @@ require('eslint-plugin-jest')
 module.exports = {
     extends: [
         "airbnb-base",
-        "prettier"
+        "prettier",
+        'plugin:json/recommended'
     ],
     plugins: [
         "json",
