@@ -1,3 +1,5 @@
+Owner: Web team
+
 # Autolist ESLint
 
 ESLint rules for Autolist.
